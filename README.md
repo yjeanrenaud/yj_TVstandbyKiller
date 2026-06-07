@@ -1,4 +1,4 @@
-# TVstandbyKiller
+# yj_TVstandbyKiller
 This is a small python script that uses a [tasmota smart meter]([https://tasmota.github.io/docs/]) to see if the old (pre-2010) TV is in standby and turns it off using a SwitchBot Bot.
 
 In fact, it's a Sony Bravia KDL-32BX400. A rather 'dumb' old TV with no smart functionalities whatsoever (which I like), but it has a ridiculous standby power consumption of at least 14 Watt (which I do not like). So I placed a [SwitchBot Bot](https://www.pocketpc.ch/magazin/testberichte/smart-home/review-switchbot-bot-und-remote-im-black-friday-test-81179/) onto it's power button and plugged the TV into a [tasmota smart meter](https://www.pocketpc.ch/magazin/testberichte/smart-home/review-refoss-smarte-wlan-steckdosenadapter-mit-tasmota-firmware-im-test-91562/).
